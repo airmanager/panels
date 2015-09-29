@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>C. van Hamersveld</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Generic wet compass.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>500</prefHeight>
+    <prefWidth>500</prefWidth>
+    <type>Compass</type>
+    <uuid>b867601d-6627-4e32-b0ea-43e38018e7c7</uuid>
+    <version>110</version>
+</pluginstrument>
