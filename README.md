@@ -1,2 +1,0 @@
-# panels
-airmanager panels
