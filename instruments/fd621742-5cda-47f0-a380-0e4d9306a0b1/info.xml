@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 152</aircraft>
+    <author>Michel Theriault glasscockpits</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Replica of a Cessna 152 ADF indicator.
+
+Artwork is copyright material, please do not redistribute as part of another gauge.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>512</prefHeight>
+    <prefWidth>512</prefWidth>
+    <type>ADF Indicator</type>
+    <uuid>fd621742-5cda-47f0-a380-0e4d9306a0b1</uuid>
+    <version>100</version>
+</pluginstrument>

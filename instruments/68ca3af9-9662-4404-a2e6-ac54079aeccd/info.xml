@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 172</aircraft>
+    <author>Jason Tatum</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description></description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>512</prefHeight>
+    <prefWidth>512</prefWidth>
+    <type>VOR NAV2</type>
+    <uuid>68ca3af9-9662-4404-a2e6-ac54079aeccd</uuid>
+    <version>100</version>
+</pluginstrument>

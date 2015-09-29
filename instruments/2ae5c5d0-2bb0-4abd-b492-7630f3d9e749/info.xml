@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 152</aircraft>
+    <author>Michel Theriault / glasscockpits</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>A replica of a Cessna152  directional gyro. Part of a complete set of gauges for the Cessna 152. 
+
+Artwork is copyright material, please do not redistribute as part of another gauge.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>512</prefHeight>
+    <prefWidth>512</prefWidth>
+    <type>Directional Gyro</type>
+    <uuid>2ae5c5d0-2bb0-4abd-b492-7630f3d9e749</uuid>
+    <version>100</version>
+</pluginstrument>

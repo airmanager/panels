@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Baron B58</aircraft>
+    <author>macnfly</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Engine Gauge
+
+An instrument fitted the Baron B58 instrument set.
+
+@screen size 1440 x 900 for a full screen panel, the geometry can be set to:
+(x, y, w, h)  1120, 320, 160, 160</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>256</prefHeight>
+    <prefWidth>256</prefWidth>
+    <type>Fuel Flow - Left</type>
+    <uuid>00d74d9e-ee04-42a8-bc88-7f943d73898d</uuid>
+    <version>100</version>
+</pluginstrument>

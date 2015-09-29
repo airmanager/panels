@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 152</aircraft>
+    <author>Michel Theriault / glasscockpits</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Altimeterr for Cessna 152. Part of a complete set of gauges for the Cessna 152. 
+
+Artwork is copyright material, please do not redistribute as part of another gauge.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>512</prefHeight>
+    <prefWidth>512</prefWidth>
+    <type>Altimeter</type>
+    <uuid>efc9ce70-d79f-40bf-a7cf-bdafe64b3d2c</uuid>
+    <version>110</version>
+</pluginstrument>

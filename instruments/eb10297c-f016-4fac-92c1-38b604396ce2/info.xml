@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>LNRalph</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Shows airports, no flightplanning. Use the zoom buttons to zoom in and out, the home buttons brings you back to the default zoomlevel.
+
+FSX / Prepar3D version does not show flighttime.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>550</prefHeight>
+    <prefWidth>575</prefWidth>
+    <type>GPS</type>
+    <uuid>eb10297c-f016-4fac-92c1-38b604396ce2</uuid>
+    <version>200</version>
+</pluginstrument>

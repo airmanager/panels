@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 172</aircraft>
+    <author>Jason Tatum</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description></description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>100</prefHeight>
+    <prefWidth>400</prefWidth>
+    <type>Annunciators</type>
+    <uuid>13b58426-9305-4f2c-8672-394f1e40c9d1</uuid>
+    <version>1</version>
+</pluginstrument>

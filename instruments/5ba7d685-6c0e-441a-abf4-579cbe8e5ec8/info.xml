@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Baron B58</aircraft>
+    <author>macnfly</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>A label showing the aircrafts call sign
+This is just a default label.
+
+Not a specific Baron B58 instrument, but fits the Baron Panel set layout
+
+@screen size 1440 x 900 for a full screen panel, the geometry can be set to:
+(x, y, w, h)  0, 800, 160, 160 </description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>160</prefHeight>
+    <prefWidth>256</prefWidth>
+    <type>Call Sign label</type>
+    <uuid>5ba7d685-6c0e-441a-abf4-579cbe8e5ec8</uuid>
+    <version>100</version>
+</pluginstrument>

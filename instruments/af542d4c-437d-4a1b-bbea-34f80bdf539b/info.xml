@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 152</aircraft>
+    <author>Titounet66</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Flaps indicator with settings button for the Cessna 152. Also works with other aircraft.
+- = Flaps up a notch
++ = Flaps down a notch
+
+Created by titounet66 and modified by LNRalph</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>330</prefHeight>
+    <prefWidth>200</prefWidth>
+    <type>Flaps Indicator</type>
+    <uuid>af542d4c-437d-4a1b-bbea-34f80bdf539b</uuid>
+    <version>110</version>
+</pluginstrument>

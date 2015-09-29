@@ -1,0 +1,1 @@
+img_add_fullscreen("call_sign_backdrop.png")

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 172</aircraft>
+    <author>Jason Tatum</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Does not work 100% with A2A Cessna 172 for some reason.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>350</prefHeight>
+    <prefWidth>512</prefWidth>
+    <type>Fuel Selector Valve</type>
+    <uuid>511733c5-098c-432f-839f-05f5e48b1a7a</uuid>
+    <version>1</version>
+</pluginstrument>

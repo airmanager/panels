@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 152</aircraft>
+    <author>Michel Theriault / glasscockpits</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Cessna 152 airspeed gauge. Part of a complete set of gauges for the Cessna 152. 
+
+Artwork is copyright material, please do not redistribute as part of another gauge.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>512</prefHeight>
+    <prefWidth>512</prefWidth>
+    <type>Airspeed</type>
+    <uuid>37004717-8787-40f3-860f-d661f1a46748</uuid>
+    <version>100</version>
+</pluginstrument>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 172</aircraft>
+    <author>Jason Tatum</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description></description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>500</prefHeight>
+    <prefWidth>500</prefWidth>
+    <type>Turn &amp; balance indicator </type>
+    <uuid>487838a2-cc11-48e1-bab9-523ca8b715ea</uuid>
+    <version>105</version>
+</pluginstrument>

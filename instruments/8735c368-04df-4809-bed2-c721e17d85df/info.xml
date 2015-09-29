@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>LNRalph</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Also shows thousands for FSX and P3D.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>183</prefHeight>
+    <prefWidth>700</prefWidth>
+    <type>Collins ADF ADF650A-TS0</type>
+    <uuid>8735c368-04df-4809-bed2-c721e17d85df</uuid>
+    <version>100</version>
+</pluginstrument>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 152</aircraft>
+    <author>Michel Theriault  / glasscockpits</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>A replica of the Cessna 152 vertical speed indicator.  Part of a complete set of gauges for the Cessna 152. 
+
+Artwork is copyright material, please do not redistribute as part of another gauge.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>512</prefHeight>
+    <prefWidth>512</prefWidth>
+    <type>Vertical Speed Indicator</type>
+    <uuid>1f942c76-ec96-46c6-97fe-5752968b8404</uuid>
+    <version>100</version>
+</pluginstrument>

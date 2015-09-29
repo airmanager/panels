@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>LNRalph</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Based on a Davtron M803. Shows outside air temperature in degrees celcius, voltage, and different times. Stopwatch can be started and stopped from ET by pressing control.
+
+FSX: There is no total flight time or elapsed time available for FSX. These are 0.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>400</prefHeight>
+    <prefWidth>400</prefWidth>
+    <type>OAT and time</type>
+    <uuid>c01de072-00e8-4edd-910e-e83466517243</uuid>
+    <version>205</version>
+</pluginstrument>

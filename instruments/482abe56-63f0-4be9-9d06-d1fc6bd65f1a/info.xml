@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 172</aircraft>
+    <author>Jason Tatum</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description></description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>300</prefHeight>
+    <prefWidth>75</prefWidth>
+    <type>Elevator Trim Indicator</type>
+    <uuid>482abe56-63f0-4be9-9d06-d1fc6bd65f1a</uuid>
+    <version>1</version>
+</pluginstrument>

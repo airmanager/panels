@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 172</aircraft>
+    <author>Russ Barlow</author>
+    <compatibleFSX>false</compatibleFSX>
+    <compatibleP3D>false</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>This a complete Cessna 172 Panel that fits perfectly into a HD monitor (1920 x 1080). All instruments and controls work with the C172 aircraft standard with X-Plane except the Garmin GPS, the Autopilot, and the audio selector panel. I may finish some of those later but this panel has comm, nav, VORs, ADF and most you need to fly instruments. 
+
+Most knobs can be clicked (left side to decrease/right to increase) but a mouse scroll wheel will work to change them too. Just hover the mouse over the control and you will see a clockwise or counter clockwise curved arrow. The the scroll wheel can change values both up and down. This works for heading select and even the throttle, mixture, and carb heat (rolling the scroll wheel forward pushes the controls forward...very natural.
+
+While creating so many instruments at once on a single panel it is tough to fully test except as you add each instrument.  If you find bugs send them to Air Manager and they can forward them to me and I'll try to fix them in any future version.
+
+Finally, this was my first try at a significant Air Manager project so don't take my code as an example of best practices.  I already have evolved to see how I could have dome many things better.  In the meantime, it seems to work fine and getting the instrument panel off the X-Plane sim monitor make a more realistic experience...at least for me.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>1080</prefHeight>
+    <prefWidth>1920</prefWidth>
+    <type>Complete Panel</type>
+    <uuid>a31f3c3c-df83-4890-a305-76571f2a7e2d</uuid>
+    <version>100</version>
+</pluginstrument>

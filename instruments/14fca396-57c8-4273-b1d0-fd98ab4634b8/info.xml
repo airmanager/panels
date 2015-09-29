@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>LNRalph</author>
+    <compatibleFSX>false</compatibleFSX>
+    <compatibleP3D>false</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Obviously based on a Garmin GTX-327. A transponder that is installed in many aircrafts. Buttons will light up when cockpit lighting is turned on.
+Soon to be updated with clickable buttons and made compatible with FSX/P3D.
+
+The transponder mode function differs between aircrafts. You might have to change the Lua script to get the correct mode displayed for your aircraft.
+
+Current setting:
+0 = OFF
+1 = STBY
+2 = ON (mode A) with reply mode (R) on
+3 = ALT (mode C) with reply mode (R) on
+4 = TST</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>180</prefHeight>
+    <prefWidth>700</prefWidth>
+    <type>Transponder</type>
+    <uuid>14fca396-57c8-4273-b1d0-fd98ab4634b8</uuid>
+    <version>110</version>
+</pluginstrument>

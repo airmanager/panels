@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>LNRalph</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description></description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>222</prefHeight>
+    <prefWidth>700</prefWidth>
+    <type>Bendix/King KX 165A TS0 com2/nav2</type>
+    <uuid>13c7ea2d-20e5-4cf3-b04c-af95a2b8c246</uuid>
+    <version>100</version>
+</pluginstrument>

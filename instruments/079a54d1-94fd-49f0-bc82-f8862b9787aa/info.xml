@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Cessna 172</aircraft>
+    <author>Jason Tatum</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Heading indicator as installed on 1997 Cessna 172R and 172S models.
+
+Note:
+Unfortunately there's no dataref or command in X-Plane to control the gyro direction (to compensate for gyro drift) or to set the heading bug.
+In FSX/P3D there is, but somehow the sim resets your input. So only the heading bug can be set. Which is the heading bug for the autopilot.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>500</prefHeight>
+    <prefWidth>500</prefWidth>
+    <type>Heading</type>
+    <uuid>079a54d1-94fd-49f0-bc82-f8862b9787aa</uuid>
+    <version>156</version>
+</pluginstrument>
