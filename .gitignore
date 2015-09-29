@@ -1,0 +1,8 @@
+AirManager.jar
+AirManager.sh
+fonts
+log.txt
+lua_libs/*
+nav_data/*
+persistence/*
+Instrument.jar
